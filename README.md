@@ -7,6 +7,7 @@ Materials for **"Foundations and Recent Advances on Natural Evolution Strategies
 
 ### Acknowledgements
 * The design of this slide is based on [the wonderful slides by Yuta Saito](https://sites.google.com/cornell.edu/recsys2021tutorial).
+* Part4 (Practical Guide) is inspired by [akimotolab/CMAES_Tutorial](https://github.com/akimotolab/CMAES_Tutorial).
 * The code is partially adapted from [cmaes_visualizer.py](https://github.com/CyberAgentAILab/cmaes/blob/main/tools/cmaes_visualizer.py), which is written by [@c-bata](https://github.com/c-bata).
 
 ### Contact
